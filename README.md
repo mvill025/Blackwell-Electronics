@@ -13,10 +13,10 @@ generated from eCommerce sales.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-![University of Texas, Austin](https://brand.utexas.edu/wp-content/themes/texasbrand/images/logos/utexas-primary-horizontal-logo.svg) [UT Data Analytics][ut-data]
+[![University of Texas, Austin][ut-logo]](ut-data)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/screenshot.png
-[ut-seal]: https://www.pngkey.com/maxpic/u2q8w7e6q8w7q8r5/
+[ut-logo]: https://brand.utexas.edu/wp-content/themes/texasbrand/images/logos/utexas-primary-horizontal-logo.svg
 [ut-data]: https://professionaled.utexas.edu/data-analytics-certificate-program
