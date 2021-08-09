@@ -13,7 +13,7 @@ generated from eCommerce sales.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-![University of Texas, Austin](https://www.pngkey.com/png/full/38-384797_large-university-of-texas-seal-rgb-logo-of.png) [UT Data Analytics][ut-data]
+![University of Texas, Austin](https://brand.utexas.edu/wp-content/themes/texasbrand/images/logos/utexas-primary-horizontal-logo.svg) [UT Data Analytics][ut-data]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
