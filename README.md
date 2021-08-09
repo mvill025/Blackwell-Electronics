@@ -13,10 +13,9 @@ generated from eCommerce sales.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-[![University of Texas, Austin][ut-logo]](ut-data)
+[![University of Texas, Austin][ut-logo]](https://professionaled.utexas.edu/data-analytics-certificate-program)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: images/screenshot.png
 [ut-logo]: https://brand.utexas.edu/wp-content/themes/texasbrand/images/logos/utexas-primary-horizontal-logo.svg
-[ut-data]: https://professionaled.utexas.edu/data-analytics-certificate-program
