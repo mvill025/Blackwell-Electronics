@@ -13,4 +13,10 @@ generated from eCommerce sales.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-[UT Data Analytics](https://professionaled.utexas.edu/data-analytics-certificate-program)
+[![University of Texas][ut-seal]][UT Data Analytics][ut-data]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: images/screenshot.png
+[ut-seal]: https://www.pngkey.com/maxpic/u2q8w7e6q8w7q8r5/
+[ut-data]: https://professionaled.utexas.edu/data-analytics-certificate-program
