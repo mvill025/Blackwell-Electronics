@@ -13,7 +13,7 @@ generated from eCommerce sales.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-[![University of Texas][ut-seal]][UT Data Analytics][ut-data]
+![[University of Texas][ut-seal]][UT Data Analytics][ut-data]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
